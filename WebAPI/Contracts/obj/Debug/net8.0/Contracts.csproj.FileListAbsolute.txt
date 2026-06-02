@@ -1,0 +1,12 @@
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\Student RM4-3073 11\Desktop\zadanie-4-wariat-3-OskCho\WebAPI\Contracts\obj\Debug\net8.0\ref\Contracts.dll
